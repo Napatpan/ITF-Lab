@@ -1,2 +1,2 @@
-massage = "Hello, ITF-Lab 2018!!!"
+massage = "Hello, ITF-Lab"
 print(massage)
